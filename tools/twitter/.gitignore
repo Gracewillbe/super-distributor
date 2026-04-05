@@ -1,0 +1,9 @@
+# Credentials - NEVER commit these!
+.env
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Logs
+*.log
