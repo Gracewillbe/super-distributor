@@ -12,7 +12,7 @@ This tool handles the entire X posting workflow: content optimization, formattin
 ✅ **Character Management** - Auto-splits long content into threads
 ✅ **Image Handling** - Attaches images with alt text
 ✅ **Hashtag Strategy** - Adds relevant hashtags without spam
-✅ **Automated Publishing** - Posts directly to X/X
+✅ **Automated Publishing** - Posts directly to X
 ✅ **Preview Mode** - Review before posting
 
 ---
@@ -22,7 +22,7 @@ This tool handles the entire X posting workflow: content optimization, formattin
 ### Step 1: Get X API Access
 
 #### 1.1 Create a X Developer Account
-1. Go to [X Developer Portal](https://developer.x.com/en/portal/dashboard)
+1. Go to [X Developer Portal](https://developer.twitter.com/en/portal/dashboard)
 2. Sign up with your X account
 3. Create a new Project and App
 
