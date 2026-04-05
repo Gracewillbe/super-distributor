@@ -65,7 +65,7 @@ function generateOAuthSignature(method, url, params, consumerSecret, tokenSecret
 }
 
 async function postTweet(text, config, options = {}) {
-  const url = 'https://api.twitter.com/2/tweets';
+  const url = 'https://api.x.com/2/tweets';
   const method = 'POST';
 
   const oauthParams = {
@@ -95,7 +95,7 @@ async function postTweet(text, config, options = {}) {
 
   const requestOptions = {
     method,
-    hostname: 'api.twitter.com',
+    hostname: 'api.x.com',
     path: '/2/tweets',
     headers: {
       'Authorization': authHeader,
@@ -167,7 +167,7 @@ function parseArgs(args) {
 
 function showHelp() {
   console.log(`
-Twitter Auto-Posting Tool
+X Auto-Posting Tool
 
 Usage:
   node tweet.js "Your tweet text"
@@ -183,7 +183,7 @@ Examples:
   node tweet.js "Check out my new blog post" --preview
 
 Configuration:
-  Create a .env file with your Twitter API credentials.
+  Create a .env file with your X API credentials.
   See .env.example for template.
 
 More info:
@@ -227,13 +227,13 @@ async function main() {
 
   try {
     const config = loadConfig();
-    console.log('🚀 Posting to Twitter...\n');
+    console.log('🚀 Posting to X...\n');
 
     const result = await postTweet(text, config, options);
 
     console.log('✅ Tweet posted successfully!');
     console.log('Tweet ID:', result.data.id);
-    console.log('URL: https://twitter.com/user/status/' + result.data.id);
+    console.log('URL: https://x.com/user/status/' + result.data.id);
 
   } catch (error) {
     console.error('\n❌ Failed to post tweet');
@@ -241,9 +241,9 @@ async function main() {
 
     if (error.message.includes('403')) {
       console.error('\n💡 Troubleshooting:');
-      console.error('1. Check if your Twitter app is configured as "Web App, Automated App or Bot"');
+      console.error('1. Check if your X app is configured as "Web App, Automated App or Bot"');
       console.error('2. Verify API credentials are correct');
-      console.error('3. Ensure you have credits in your Twitter account (pay-per-use)');
+      console.error('3. Ensure you have credits in your X account (pay-per-use)');
       console.error('4. See README.md for detailed setup instructions');
     }
 

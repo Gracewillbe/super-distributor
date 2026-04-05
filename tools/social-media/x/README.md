@@ -1,8 +1,8 @@
-# Twitter Auto-Posting System
+# X Auto-Posting System
 
 **Complete automation for social media posting - replace your social media manager.**
 
-This tool handles the entire Twitter posting workflow: content optimization, formatting, image handling, hashtags, and automated publishing.
+This tool handles the entire X posting workflow: content optimization, formatting, image handling, hashtags, and automated publishing.
 
 ---
 
@@ -12,18 +12,18 @@ This tool handles the entire Twitter posting workflow: content optimization, for
 ✅ **Character Management** - Auto-splits long content into threads
 ✅ **Image Handling** - Attaches images with alt text
 ✅ **Hashtag Strategy** - Adds relevant hashtags without spam
-✅ **Automated Publishing** - Posts directly to Twitter/X
+✅ **Automated Publishing** - Posts directly to X/X
 ✅ **Preview Mode** - Review before posting
 
 ---
 
 ## Setup Guide
 
-### Step 1: Get Twitter API Access
+### Step 1: Get X API Access
 
-#### 1.1 Create a Twitter Developer Account
-1. Go to [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard)
-2. Sign up with your Twitter account
+#### 1.1 Create a X Developer Account
+1. Go to [X Developer Portal](https://developer.x.com/en/portal/dashboard)
+2. Sign up with your X account
 3. Create a new Project and App
 
 #### 1.2 Configure App Settings
@@ -45,7 +45,7 @@ This tool handles the entire Twitter posting workflow: content optimization, for
    - **Access Token Secret**
 
 #### 1.4 Handle Billing (Pay-per-use)
-- Twitter API requires payment for posting
+- X API requires payment for posting
 - Go to **Billing** → **Buy Credits**
 - Add $5 (enough for ~2500 tweets)
 - Cost: ~$0.002 per tweet
@@ -83,7 +83,7 @@ If successful, you'll see:
 ```
 ✅ Tweet posted successfully!
 Tweet ID: 1234567890
-URL: https://twitter.com/user/status/1234567890
+URL: https://x.com/user/status/1234567890
 ```
 
 ---
@@ -258,7 +258,7 @@ For Claude Code integration, configure MCP in `.mcp.json`:
 
 Then use in Claude Code:
 ```
-Claude, post to Twitter: "My tweet content"
+Claude, post to X: "My tweet content"
 ```
 
 ---
@@ -337,7 +337,7 @@ twitter/
 
 **Issues?** Open an issue in the [super-distributor repo](https://github.com/Gracewillbe/super-distributor/issues)
 
-**Questions?** Tag [@YourTwitterHandle](https://twitter.com/yourusername)
+**Questions?** Tag [@YourXHandle](https://x.com/yourusername)
 
 ---
 
