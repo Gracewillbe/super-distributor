@@ -12,23 +12,60 @@ Super Distributor is an open-source collection of playbooks, prompts, skills, an
 
 | Directory | What it is | Status |
 |-----------|-----------|--------|
-| `playbook/` | Step-by-step guides from positioning to first users | Coming soon |
-| `prompts/` | AI prompts for copywriting, positioning, launch prep | Coming soon |
-| `skills/` | Claude Code skills for growth workflows | Coming soon |
-| `tools/` | Templates, checklists, and scripts you can use today | Coming soon |
+| `playbook/` | Step-by-step guides from positioning to first users | 🚧 **6/9 chapters live** |
+| `tools/` | Templates, checklists, and scripts you can use today | 🚧 **X tools ready** |
+| `prompts/` | AI prompts for copywriting, positioning, launch prep | 📋 Coming soon |
+| `skills/` | Claude Code skills for growth workflows | 📋 Coming soon |
+
+### 📖 Available Playbooks
+
+| # | Chapter | Status | What You'll Learn |
+|---|---------|--------|-------------------|
+| 00 | [Why Distribution Is the New Moat](playbook/00-why-distribution-is-the-new-moat.md) | ✅ Live | Why distribution beats product in 2026 |
+| 01 | [Market Intelligence](playbook/01-market-intelligence.md) | ✅ Live | Find where your users are and what they need |
+| 02 | [Finding Your Problem](playbook/02-finding-your-problem.md) | ✅ Live | Spot structural imbalances worth solving |
+| 03 | [Positioning](playbook/03-positioning.md) | ✅ Live | Own a spot in your users' minds |
+| 04 | [Naming](playbook/04-naming.md) | 📋 Coming | Pick a name that sticks |
+| 05 | [Landing Page](playbook/05-landing-page.md) | 📋 Coming | Ship a page that converts |
+| 06 | [Social Media](playbook/06-social-media.md) | ✅ Live | Build presence without burning out |
+| 07 | [Launch Day](playbook/07-launch-day.md) | 📋 Coming | Execute day one like a pro |
+| 08 | [First Users](playbook/08-first-users.md) | 📋 Coming | Land your first 100 users |
+| 09 | [The Open Source Movement](playbook/09-the-opensource-movement.md) | ✅ Live | Why open source is distribution |
+
+### 🛠️ Available Tools
+
+| Tool | What It Does | Ready? |
+|------|--------------|--------|
+| [X Auto-Posting](tools/x/auto-posting/) | Schedule and post tweets programmatically | ✅ Ready |
+| [Grok Prompts](tools/x/grok/) | Research your market using X's native AI | ✅ Ready |
+| GitHub Tools | Launch templates and issue automation | 📋 Coming |
+| RedNote Tools | Cross-post to Chinese market | 📋 Coming |
 
 ## Roadmap
 
 This project is built in public — one commit at a time.
 
-- [x] Project launch
-- [ ] Positioning playbook — how to find your angle
+**✅ Completed:**
+- [x] Project launch + philosophy
+- [x] Market intelligence playbook — find where your users are
+- [x] Finding your problem playbook — spot structural imbalances
+- [x] Positioning playbook — own a unique spot
+- [x] Social media playbook — build presence sustainably
+- [x] Open source movement playbook — distribution through community
+- [x] X/Grok tools — market research prompts
+- [x] X auto-posting tool — schedule tweets programmatically
+
+**🚧 In Progress:**
 - [ ] Naming guide — how to pick a name that sticks
 - [ ] Landing page playbook — ship a page that converts
 - [ ] Launch day checklist — what to do on day one
-- [ ] First 100 users — where to find them and what to say
-- [ ] AI prompts for copywriting and positioning
+- [ ] First 100 users playbook — where to find them and what to say
+
+**📋 Planned:**
+- [ ] AI prompts library for copywriting and positioning
 - [ ] Claude Code skills for launch workflows
+- [ ] GitHub launch templates
+- [ ] RedNote distribution tools
 
 Follow along. Star the repo. New content drops daily.
 
