@@ -33,6 +33,8 @@ No fluff. No theory. Just battle-tested frameworks you can use today.
 
 **Everything is free. Everything is open-source.**
 
+📋 **[See the full roadmap →](ROADMAP.md)** — What's coming next (Claude Code skills, AI prompts, case studies)
+
 ---
 
 ## Quick Start
