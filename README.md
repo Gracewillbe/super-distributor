@@ -12,7 +12,7 @@ Super Distributor is an open-source collection of playbooks, prompts, skills, an
 
 | Directory | What it is | Status |
 |-----------|-----------|--------|
-| `playbook/` | Step-by-step guides from positioning to first users | 🚧 **7/9 chapters live** |
+| `playbook/` | Step-by-step guides from positioning to first users | 🚧 **8/9 chapters live** |
 | `tools/` | Templates, checklists, and scripts you can use today | 🚧 **X tools ready** |
 | `prompts/` | AI prompts for copywriting, positioning, launch prep | 📋 Coming soon |
 | `skills/` | Claude Code skills for growth workflows | 📋 Coming soon |
@@ -26,7 +26,7 @@ Super Distributor is an open-source collection of playbooks, prompts, skills, an
 | 02 | [Finding Your Problem](playbook/02-finding-your-problem.md) | ✅ Live | Spot structural imbalances worth solving |
 | 03 | [Positioning](playbook/03-positioning.md) | ✅ Live | Own a spot in your users' minds |
 | 04 | [Messaging](playbook/04-messaging.md) | ✅ Live | Turn positioning into words that stick |
-| 05 | [Landing Page](playbook/05-landing-page.md) | 📋 Coming | Ship a page that converts |
+| 05 | [Landing Page](playbook/05-landing-page.md) | ✅ Live | Ship a page that converts |
 | 06 | [Social Media](playbook/06-social-media.md) | ✅ Live | Build presence without burning out |
 | 07 | [Launch Day](playbook/07-launch-day.md) | 📋 Coming | Execute day one like a pro |
 | 08 | [First Users](playbook/08-first-users.md) | 📋 Coming | Land your first 100 users |
@@ -55,9 +55,9 @@ This project is built in public — one commit at a time.
 - [x] X/Grok tools — market research prompts
 - [x] X auto-posting tool — schedule tweets programmatically
 - [x] Messaging playbook — turn positioning into words that stick
+- [x] Landing page playbook — ship a page that converts
 
 **🚧 In Progress:**
-- [ ] Landing page playbook — ship a page that converts
 - [ ] Launch day checklist — what to do on day one
 - [ ] First 100 users playbook — where to find them and what to say
 
