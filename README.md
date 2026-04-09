@@ -2,83 +2,218 @@
 
 **The open-source growth harness for indie makers. Ship from 0 to 1.**
 
-You built something. Now what?
+---
 
-Most indie makers and solo founders are great at building — but when it comes to getting the word out, they're stuck. No marketing team. No budget. No playbook. Just a great product sitting in silence.
+## The Problem
 
-Super Distributor is an open-source collection of playbooks, prompts, skills, and tools to help you distribute your product from zero to launch — and land your first users.
+You spent months building something great. The product works. The code is clean. You're ready to launch.
+
+But then reality hits:
+
+- Zero users on day one
+- No idea where to find your audience
+- Marketing feels like dark magic
+- All the advice is written for companies with teams and budgets
+
+**You're stuck. Not because you can't build — but because you don't know how to distribute.**
+
+---
+
+## The Solution
+
+Super Distributor is an open-source collection of **playbooks, tools, and templates** to help indie makers go from zero to their first users.
+
+No fluff. No theory. Just battle-tested frameworks you can use today.
+
+**What you get:**
+- ✅ **9 step-by-step playbooks** — From positioning to your first 100 users
+- ✅ **Ready-to-use tools** — X auto-posting, Grok prompts, and more
+- ✅ **Launch templates** — Tweets, Product Hunt posts, Reddit copy, DM scripts
+- ✅ **Zero-budget strategies** — Built for solo makers, not marketing teams
+
+**Everything is free. Everything is open-source.**
+
+---
+
+## Quick Start
+
+### New to distribution?
+**Start here:** [00 - Why Distribution Is the New Moat](playbook/00-why-distribution-is-the-new-moat.md)
+
+### About to launch?
+**Go here:** [07 - Launch Day](playbook/07-launch-day.md) → Get the checklist, templates, and timeline
+
+### Already launched but stuck at 0-10 users?
+**Read this:** [08 - First 100 Users](playbook/08-first-users.md) → Learn where to find them and what to say
+
+### Need to fix your positioning or messaging first?
+**Follow the sequence:**
+1. [03 - Positioning](playbook/03-positioning.md) — Own a spot in users' minds
+2. [04 - Messaging](playbook/04-messaging.md) — Turn positioning into words that stick
+3. [05 - Landing Page](playbook/05-landing-page.md) — Ship a page that converts
+
+---
 
 ## What's Inside
 
-| Directory | What it is | Status |
-|-----------|-----------|--------|
-| `playbook/` | Step-by-step guides from positioning to first users | ✅ **All 9 chapters live** |
-| `tools/` | Templates, checklists, and scripts you can use today | 🚧 **X tools ready** |
-| `prompts/` | AI prompts for copywriting, positioning, launch prep | 📋 Coming soon |
-| `skills/` | Claude Code skills for growth workflows | 📋 Coming soon |
+### 📖 Playbooks (Complete)
 
-### 📖 Available Playbooks
+A step-by-step guide from idea to first users:
 
-| # | Chapter | Status | What You'll Learn |
-|---|---------|--------|-------------------|
-| 00 | [Why Distribution Is the New Moat](playbook/00-why-distribution-is-the-new-moat.md) | ✅ Live | Why distribution beats product in 2026 |
-| 01 | [Market Intelligence](playbook/01-market-intelligence.md) | ✅ Live | Find where your users are and what they need |
-| 02 | [Finding Your Problem](playbook/02-finding-your-problem.md) | ✅ Live | Spot structural imbalances worth solving |
-| 03 | [Positioning](playbook/03-positioning.md) | ✅ Live | Own a spot in your users' minds |
-| 04 | [Messaging](playbook/04-messaging.md) | ✅ Live | Turn positioning into words that stick |
-| 05 | [Landing Page](playbook/05-landing-page.md) | ✅ Live | Ship a page that converts |
-| 06 | [Social Media](playbook/06-social-media.md) | ✅ Live | Build presence without burning out |
-| 07 | [Launch Day](playbook/07-launch-day.md) | ✅ Live | Execute day one like a pro |
-| 08 | [First Users](playbook/08-first-users.md) | ✅ Live | Land your first 100 users |
-| 09 | [The Open Source Movement](playbook/09-the-opensource-movement.md) | ✅ Live | Why open source is distribution |
+| # | Chapter | What You'll Learn |
+|---|---------|-------------------|
+| 00 | [Why Distribution Is the New Moat](playbook/00-why-distribution-is-the-new-moat.md) | Why distribution beats product in 2026 |
+| 01 | [Market Intelligence](playbook/01-market-intelligence.md) | Find where your users are and what they need |
+| 02 | [Finding Your Problem](playbook/02-finding-your-problem.md) | Spot structural imbalances worth solving |
+| 03 | [Positioning](playbook/03-positioning.md) | Own a spot in your users' minds |
+| 04 | [Messaging](playbook/04-messaging.md) | Turn positioning into words that stick |
+| 05 | [Landing Page](playbook/05-landing-page.md) | Ship a page that converts |
+| 06 | [Social Media](playbook/06-social-media.md) | Build presence without burning out |
+| 07 | [Launch Day](playbook/07-launch-day.md) | Execute day one like a pro |
+| 08 | [First Users](playbook/08-first-users.md) | Land your first 100 users |
+| 09 | [The Open Source Movement](playbook/09-the-opensource-movement.md) | Why open source is distribution |
 
-### 🛠️ Available Tools
+**Total: 9 chapters. ~35,000 words. All free.**
 
-| Tool | What It Does | Ready? |
+---
+
+### 🛠️ Tools (Growing)
+
+Ready-to-use tools and templates:
+
+| Tool | What It Does | Status |
 |------|--------------|--------|
 | [X Auto-Posting](tools/x/auto-posting/) | Schedule and post tweets programmatically | ✅ Ready |
-| [Grok Prompts](tools/x/grok/) | Research your market using X's native AI | ✅ Ready |
-| GitHub Tools | Launch templates and issue automation | 📋 Coming |
+| [X/Grok Prompts](tools/x/grok/) | Research your market using X's native AI | ✅ Ready |
+| [GitHub Tools](tools/github/) | Launch templates and issue automation | ✅ Ready |
+| AI Prompts Library | Copywriting, positioning, and launch prompts | 📋 Coming |
+| Claude Code Skills | Growth workflows as executable skills | 📋 Coming |
 | RedNote Tools | Cross-post to Chinese market | 📋 Coming |
 
-## Roadmap
+**More tools shipping weekly.**
 
-This project is built in public — one commit at a time.
+---
 
-**✅ Completed:**
-- [x] Project launch + philosophy
-- [x] Market intelligence playbook — find where your users are
-- [x] Finding your problem playbook — spot structural imbalances
-- [x] Positioning playbook — own a unique spot
-- [x] Social media playbook — build presence sustainably
-- [x] Open source movement playbook — distribution through community
-- [x] X/Grok tools — market research prompts
-- [x] X auto-posting tool — schedule tweets programmatically
-- [x] Messaging playbook — turn positioning into words that stick
-- [x] Landing page playbook — ship a page that converts
-- [x] Launch day playbook — execute day one like a pro
-- [x] First 100 users playbook — where to find them and what to say
+## Who This Is For
 
-**🚧 In Progress:**
+**✅ You'll love this if you:**
+- Built something but have no users
+- Are launching soon and need a plan
+- Have zero marketing experience
+- Don't have a budget or team
+- Want actionable frameworks, not theory
 
-**📋 Planned:**
-- [ ] AI prompts library for copywriting and positioning
-- [ ] Claude Code skills for launch workflows
-- [ ] GitHub launch templates
-- [ ] RedNote distribution tools
+**❌ This isn't for you if:**
+- You have a marketing team (you don't need this)
+- You're pre-idea (build something first)
+- You want to "go viral" overnight (this is about systems, not luck)
 
-Follow along. Star the repo. New content drops daily.
+---
 
 ## Philosophy
 
-Distribution is not an afterthought — it's a skill. And like any skill, it can be learned, practiced, and systematized.
+Distribution is not an afterthought. It's not luck. It's not magic.
 
-More on this soon.
+**Distribution is a skill** — and like any skill, it can be learned, practiced, and systematized.
+
+Most indie makers fail not because they build bad products, but because they never learn to distribute. They wait for users to find them. They post once and give up. They think "good products sell themselves."
+
+**That's a lie.**
+
+Good products need distribution. And distribution, at the early stage, is not about scale. It's about:
+- Finding where your users already are
+- Showing up with value, not spam
+- Turning 10 users into 100 through word of mouth
+- Building in public so people care when you launch
+
+**This repo teaches you how to do that — step by step, with zero budget.**
+
+---
+
+## Roadmap
+
+**✅ Phase 1: Core Playbooks (Complete)**
+- All 9 chapters live
+- Full 0 → 100 users pathway documented
+
+**🚧 Phase 2: Tools & Templates (In Progress)**
+- X auto-posting tool ✅
+- X/Grok prompts ✅
+- GitHub launch templates ✅
+- AI prompts library (coming soon)
+- Claude Code skills (coming soon)
+
+**📋 Phase 3: Community & Case Studies**
+- Real launch case studies
+- Community contributions
+- Translations (中文, others)
+- Video walkthroughs
+
+**Follow along. Star the repo. New content drops regularly.**
+
+---
+
+## How to Use This Repo
+
+### Option 1: Read the Playbooks in Order
+Start at [Chapter 00](playbook/00-why-distribution-is-the-new-moat.md) and read through to Chapter 09. Follow the exercises. Apply as you go.
+
+### Option 2: Jump to What You Need
+- **Pre-launch?** → Chapters 3-6 (Positioning, Messaging, Landing Page, Social Media)
+- **Launching soon?** → Chapter 7 (Launch Day)
+- **Stuck at 0-10 users?** → Chapter 8 (First 100 Users)
+
+### Option 3: Use the Tools
+Browse [tools/](tools/) for ready-to-use scripts, templates, and automation.
+
+---
+
+## Contributing
+
+This is an open-source project. Contributions are welcome.
+
+**Ways to contribute:**
+- Share your launch story (what worked, what didn't)
+- Add tools or templates you've used
+- Translate playbooks to other languages
+- Report issues or suggest improvements
+
+**How to contribute:**
+1. Fork the repo
+2. Make your changes
+3. Submit a pull request
+
+---
 
 ## About
 
-Built by [Grace](https://github.com/Gracewillbebetter) — a product maker and growth practitioner who believes the best products deserve to be found.
+Built by [Grace](https://x.com/Gracewillbebetter) — a product maker and growth practitioner who believes the best products deserve to be found.
+
+**Why I built this:**
+
+I've launched products that got 0 users. I've launched products that got 1,000 users in a week. The difference wasn't the product — it was distribution.
+
+Most indie makers waste months building in private, then wonder why nobody cares. They don't know where to start. They don't have a system. They give up too early.
+
+**This repo is the playbook I wish I had when I started.**
+
+---
 
 ## License
 
-MIT
+MIT — Use it, remix it, build on it. Just don't claim you wrote it.
+
+---
+
+## Support This Project
+
+If this helped you:
+- ⭐ **Star the repo** (helps others find it)
+- 🐦 **Share on Twitter** (tag [@Gracewillbebetter](https://x.com/Gracewillbebetter))
+- 💬 **Tell someone who needs it**
+
+**No donations needed. Just ship your thing and tell people about it.**
+
+---
+
+**Ready to ship?** → Start here: [Chapter 00 - Why Distribution Is the New Moat](playbook/00-why-distribution-is-the-new-moat.md)
