@@ -205,6 +205,36 @@ Pre-written prompts for common tasks:
 
 ---
 
+## Distribution Channels
+
+Where to submit Super Distributor skills and content for visibility:
+
+**Skill Directories:**
+- [ ] [Agent Skills Hub](https://agentskillshub.top/) — 52k+ AI agent tools directory
+  - [ ] Submit `launch-planner` skill
+  - [ ] Submit `messaging-generator` skill (when ready)
+  - [ ] Submit `landing-page-builder` skill (when ready)
+- [ ] Claude Code official skills repository (if exists)
+- [ ] Awesome lists (awesome-claude, awesome-ai-tools, awesome-indie-makers)
+
+**Launch Platforms:**
+- [ ] Product Hunt (for Super Distributor itself)
+- [ ] Indie Hackers "Show IH"
+- [ ] Hacker News "Show HN"
+- [ ] Reddit (r/SideProject, r/IndieDevelopers, r/SaaS)
+
+**Content Platforms:**
+- [ ] Dev.to (cross-post playbooks)
+- [ ] Medium (if appropriate)
+- [ ] Substack/Newsletter (weekly tips from playbooks)
+
+**Community:**
+- [ ] Twitter/X (regular sharing, not just launch)
+- [ ] LinkedIn (B2B audience)
+- [ ] Discord servers (relevant communities)
+
+---
+
 ## Distribution Milestones
 
 These are not "content" milestones, but distribution goals for the project itself:

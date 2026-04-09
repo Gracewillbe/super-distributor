@@ -181,6 +181,20 @@ Browse [tools/](tools/) for ready-to-use scripts, templates, and automation.
 
 ---
 
+## Resources
+
+**Looking for more tools and platforms?**
+
+Check out our curated list of resources:
+- 🛠️ **[Agent Skills Hub](https://agentskillshub.top/)** — Discover 52k+ AI agent tools and Claude skills
+- 🚀 **Launch platforms** — Product Hunt, Indie Hackers, Hacker News, Reddit
+- 📚 **Learning resources** — Books, courses, and communities for indie makers
+- 👥 **Communities** — Where to find support and feedback
+
+**[→ See full resource list](resources/useful-resources.md)**
+
+---
+
 ## Contributing
 
 This is an open-source project. Contributions are welcome.
