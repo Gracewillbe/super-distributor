@@ -101,7 +101,7 @@ Executable skills that turn playbooks into workflows:
 |-------|--------------|----------|--------|
 | [`launch-planner`](skills/launch-planner/) | Generate complete launch plan + posts for all platforms | [Ch 07](playbook/07-launch-day.md) | ✅ Ready |
 | [`messaging-generator`](skills/messaging-generator/) | Turn positioning into clear messaging (one-liners, value props, pillars) | [Ch 04](playbook/04-messaging.md) | ✅ Ready |
-| `landing-page-builder` | Generate complete HTML landing page | [Ch 05](playbook/05-landing-page.md) | 📋 Coming |
+| [`landing-page-builder`](skills/landing-page-builder/) | Generate complete, conversion-focused HTML landing page | [Ch 05](playbook/05-landing-page.md) | ✅ Ready |
 
 **How to use:** Open Claude Code in this repo, run `/skill launch-planner` (or other skill name).
 
