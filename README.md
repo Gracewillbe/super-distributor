@@ -93,15 +93,25 @@ Ready-to-use tools and templates:
 
 ---
 
-### ⚡ Claude Code Skills (New!)
+### ⚡ Claude Code Skills
 
 Executable skills that turn playbooks into workflows:
+
+**Phase 1: Core Launch Skills**
 
 | Skill | What It Does | Based On | Status |
 |-------|--------------|----------|--------|
 | [`launch-planner`](skills/launch-planner/) | Generate complete launch plan + posts for all platforms | [Ch 07](playbook/07-launch-day.md) | ✅ Ready |
 | [`messaging-generator`](skills/messaging-generator/) | Turn positioning into clear messaging (one-liners, value props, pillars) | [Ch 04](playbook/04-messaging.md) | ✅ Ready |
 | [`landing-page-builder`](skills/landing-page-builder/) | Generate complete, conversion-focused HTML landing page | [Ch 05](playbook/05-landing-page.md) | ✅ Ready |
+
+**Phase 2: Post-Launch Growth Skills**
+
+| Skill | What It Does | Based On | Status |
+|-------|--------------|----------|--------|
+| [`competitor-analyzer`](skills/competitor-analyzer/) | Analyze competitive landscape and find positioning gaps | [Ch 03](playbook/03-positioning.md) | ✅ Ready |
+| [`email-sequence-builder`](skills/email-sequence-builder/) | Generate email sequences (welcome, onboarding, nurture, re-engagement) | [Ch 07](playbook/07-launch-day.md) + [Ch 08](playbook/08-first-users.md) | ✅ Ready |
+| [`content-calendar`](skills/content-calendar/) | Plan 30/60/90-day content calendar for consistent social presence | [Ch 06](playbook/06-social-media.md) | ✅ Ready |
 
 **How to use:** Open Claude Code in this repo, run `/skill launch-planner` (or other skill name).
 

@@ -6,18 +6,25 @@ This document outlines the development roadmap for Super Distributor. All develo
 
 ## Current Status (April 2026)
 
-**✅ Phase 1: Core Playbooks (Complete)**
-- All 9 chapters live (~35,000 words)
-- Full pathway from positioning to first 100 users
-- README optimized as landing page
+**✅ Phase 1: Core Launch Skills (Complete)**
+- All 9 playbooks live (~35,000 words)
+- 3 core skills shipped:
+  - `launch-planner` - Complete launch plan with content
+  - `messaging-generator` - Positioning → messaging
+  - `landing-page-builder` - Generate HTML landing page
 
-**🚧 Phase 2: Tools & Skills (In Progress)**
+**✅ Phase 2: Post-Launch Growth Skills (Complete)**
+- 3 growth skills shipped:
+  - `competitor-analyzer` - Competitive landscape mapping
+  - `email-sequence-builder` - Welcome, onboarding, nurture, re-engagement
+  - `content-calendar` - 30/60/90-day content planning
+
+**🚧 Phase 3: Tools & Distribution (In Progress)**
 - 3 tools shipped (X auto-posting, Grok prompts, GitHub templates)
-- 0 Claude Code skills (coming next)
 - AI prompts library (planned)
+- Product Hunt launch (planned)
 
-**📋 Phase 3: Community & Growth (Planned)**
-- Product Hunt launch
+**📋 Phase 4: Community & Growth (Planned)**
 - Case studies and real-world examples
 - Community contributions
 - Translations
