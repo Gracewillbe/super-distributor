@@ -108,7 +108,148 @@ From zero to a live landing page in 30 minutes. The most tangible deliverable �
 
 ## Medium-Term (Next 1-2 Months)
 
-### Additional Skills (Lower Priority)
+### Phase 2: Post-Launch Growth Skills (NEW - Based on Competitor Analysis)
+
+After completing Phase 1 (core launch skills), add these high-value skills inspired by successful marketing tools on Agent Skills Hub:
+
+#### `competitor-analyzer` 🎯 High Priority
+**Status:** Planned
+**Target:** Month 2
+**Chapter:** [03 - Positioning](playbook/03-positioning.md)
+**Inspiration:** ai-marketing-claude (competitive intelligence)
+
+**What it does:**
+- Input: Product description + competitor list (or auto-discover)
+- Output:
+  - Competitor matrix (features, positioning, pricing)
+  - Differentiation analysis
+  - Positioning recommendations
+  - Gap opportunities
+
+**Why this matters:**
+Good positioning requires understanding the competitive landscape. This automates the research from Ch03 and helps identify your unique angle.
+
+**Time estimate:** 3-4 hours to build
+
+---
+
+#### `email-sequence-builder` 🎯 High Priority
+**Status:** Planned
+**Target:** Month 2
+**Chapter:** [08 - First Users](playbook/08-first-users.md) + [07 - Launch Day](playbook/07-launch-day.md)
+**Inspiration:** ai-marketing-claude (email marketing automation)
+
+**What it does:**
+- Input: Product info + user journey stage
+- Output: Complete email sequences:
+  - Welcome series (3-5 emails)
+  - Onboarding (feature education)
+  - Nurture (engagement)
+  - Re-engagement (win-back)
+
+**Why this matters:**
+After launch, you need to keep users engaged. Automated email sequences turn one-time visitors into active users.
+
+**Time estimate:** 3-4 hours to build
+
+---
+
+#### `content-calendar` 🎯 High Priority
+**Status:** Planned
+**Target:** Month 2
+**Chapter:** [06 - Social Media](playbook/06-social-media.md)
+**Inspiration:** ai-marketing-claude (content planning)
+
+**What it does:**
+- Input: Product + target audience + posting frequency
+- Output: 30/60/90-day content calendar
+  - Topic ideas for each day
+  - Content formats (thread, post, tutorial, case study)
+  - Platform recommendations (Twitter, LinkedIn, Reddit)
+  - Build-in-public storylines
+
+**Why this matters:**
+Consistent content builds audience and trust. A calendar removes "what should I post today?" paralysis.
+
+**Time estimate:** 2-3 hours to build
+
+---
+
+### Phase 3: Optimization & Expansion Skills
+
+Additional skills for when you have traction and want to optimize:
+
+#### `seo-optimizer` 🟡 Medium Priority
+**Status:** Planned
+**Target:** Month 3
+**Chapter:** [05 - Landing Page](playbook/05-landing-page.md)
+**Inspiration:** seo-geo-claude-skills, marketingskills
+
+**What it does:**
+- Input: Landing page content or URL
+- Output: Basic SEO optimization suggestions
+  - Title tags and meta descriptions
+  - Header structure (H1, H2, H3)
+  - Keyword recommendations
+  - Image alt text
+
+**Why this matters:**
+Basic SEO helps people find your landing page. Not deep technical SEO (that's for other tools), just the fundamentals.
+
+**Note:** This is NOT a replacement for dedicated SEO tools. It's just landing page basics.
+
+**Time estimate:** 2-3 hours to build
+
+---
+
+#### `cro-auditor` 🟡 Medium Priority
+**Status:** Planned
+**Target:** Month 3
+**Chapter:** [05 - Landing Page](playbook/05-landing-page.md)
+**Inspiration:** marketingskills (CRO)
+
+**What it does:**
+- Input: Landing page URL or HTML
+- Output: CRO improvement checklist
+  - CTA clarity and placement
+  - Copy improvements (clarity, urgency, specificity)
+  - Layout and visual hierarchy
+  - Trust elements (social proof, testimonials)
+  - Mobile optimization
+
+**Why this matters:**
+Once you have traffic, convert more of it. Small CRO tweaks can double your conversion rate.
+
+**Time estimate:** 3-4 hours to build
+
+---
+
+#### `social-post-variations` 🟡 Medium Priority
+**Status:** Planned
+**Target:** Month 3
+**Chapter:** [06 - Social Media](playbook/06-social-media.md)
+**Inspiration:** ai-marketing-claude
+
+**What it does:**
+- Input: Core message + platform
+- Output: 10+ variations from different angles
+  - Problem-focused
+  - Solution-focused
+  - Story-based
+  - Data-driven
+  - Question-based
+  - Contrarian
+
+**Why this matters:**
+Same message, different packaging. Test what resonates with your audience.
+
+**Time estimate:** 2 hours to build
+
+---
+
+### Phase 4: Original Planned Skills
+
+These were in the original roadmap and remain valuable:
 
 #### `positioning-workshop`
 **Chapter:** [03 - Positioning](playbook/03-positioning.md)
