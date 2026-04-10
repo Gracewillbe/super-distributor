@@ -27,13 +27,15 @@ No fluff. No theory. Just battle-tested frameworks you can use today.
 
 **What you get:**
 - ✅ **9 step-by-step playbooks** — From positioning to your first 100 users
+- ✅ **6 Claude Code skills** — Turn playbooks into executable workflows
+- ✅ **Philosophy framework** — Learn how to build distribution systems that adapt
 - ✅ **Ready-to-use tools** — X auto-posting, Grok prompts, and more
 - ✅ **Launch templates** — Tweets, Product Hunt posts, Reddit copy, DM scripts
 - ✅ **Zero-budget strategies** — Built for solo makers, not marketing teams
 
 **Everything is free. Everything is open-source.**
 
-📋 **[See the full roadmap →](ROADMAP.md)** — What's coming next (Claude Code skills, AI prompts, case studies)
+📋 **[See the full roadmap →](ROADMAP.md)** — What's coming next (case studies, community contributions)
 
 ---
 
@@ -135,6 +137,8 @@ Executable skills that turn playbooks into workflows:
 
 ## Philosophy
 
+**[→ Read the full philosophy](PHILOSOPHY.md)**
+
 Distribution is not an afterthought. It's not luck. It's not magic.
 
 **Distribution is a skill** — and like any skill, it can be learned, practiced, and systematized.
@@ -155,22 +159,26 @@ Good products need distribution. And distribution, at the early stage, is not ab
 
 ## Roadmap
 
-**✅ Phase 1: Core Playbooks (Complete)**
-- All 9 chapters live
-- Full 0 → 100 users pathway documented
+**✅ Phase 1: Core Launch Skills (Complete)**
+- 3 core skills: launch-planner, messaging-generator, landing-page-builder
+- Launch day execution playbook
 
-**🚧 Phase 2: Tools & Templates (In Progress)**
-- X auto-posting tool ✅
-- X/Grok prompts ✅
-- GitHub launch templates ✅
-- AI prompts library (coming soon)
-- Claude Code skills (coming soon)
+**✅ Phase 2: Post-Launch Growth Skills (Complete)**
+- 3 growth skills: competitor-analyzer, email-sequence-builder, content-calendar
+- All 9 playbooks (~35,000 words)
+- Philosophy framework
 
-**📋 Phase 3: Community & Case Studies**
-- Real launch case studies
+**🚧 Phase 3: Distribution & Case Studies (In Progress)**
+- Product Hunt launch
+- Real-world case studies
 - Community contributions
-- Translations (中文, others)
+- Vertical-specific playbooks
+
+**📋 Phase 4: Ecosystem Expansion**
+- AI prompts library
+- Translations
 - Video walkthroughs
+- Advanced tools
 
 **Follow along. Star the repo. New content drops regularly.**
 
